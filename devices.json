@@ -1,5 +1,4 @@
 {
-  "$comment": "Devices manifest. Edited on GitHub; the site re-reads it every ~5 min (ISR). Image paths are relative to devices/ in this repo.",
   "version": 1,
   "sections": [
     {
