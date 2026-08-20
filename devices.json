@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "sections": [
     {
       "categoryName": "Phones",
@@ -37,33 +36,33 @@
           ]
         },
         {
-          "name": "OPPO Reno4 Z 5G (CPH2065)",
+          "name": "Sharp AQUOS R8 (SH-52D | NTT Docomo)",
           "tag": "Sub phone",
-          "image": "opporeno4z.jpeg",
+          "image": "sharpR8.jpg",
           "specs": [
             {
               "label": "Display",
-              "value": "6.57\" FHD+ IPS LCD, 120Hz"
+              "value": "6.4\" FHD+ LTPO IGZO OLED, 120Hz"
             },
             {
               "label": "Chipset",
-              "value": "MediaTek Dimensity 800 (7nm)"
+              "value": "Qualcomm Snapdragon 8 Gen 2 (4nm)"
             },
             {
               "label": "Memory",
-              "value": "12GB LPDDR4X / 256GB UFS 2.1"
+              "value": "8GB LPDDR5X / 256GB UFS 4.0"
             },
             {
               "label": "Camera",
-              "value": "48MP IMX586 + 8MP (ultrawide) + 2MP (macro)"
+              "value": "48MP OV50A + 13MP (ultrawide)"
             },
             {
               "label": "Battery",
-              "value": "4000mAh, 18W wired"
+              "value": "4570mAh"
             },
             {
               "label": "OS",
-              "value": "ColorOS 12.1 (Android 12L)"
+              "value": "AQUOS UX 16.0.0 (Android 16)"
             }
           ]
         }
